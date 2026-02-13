@@ -14,10 +14,11 @@ function Contact() {
     setIsSubmitting(true);
 
     emailjs.sendForm(
-      'service_ioq64kk',
-      'template_opryl43',
+      import.meta.env.VITE_EMAILJS_SERVICE_ID, 
+      import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
       formRef.current,
-      '0OEHPseV5FUBxZJT1'
+      import.meta.env.VITE_EMAILJS_PUBLIC_KEY
+      
     )
     .then(() => {
       setIsSent(true);
