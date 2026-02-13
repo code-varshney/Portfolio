@@ -6,7 +6,7 @@ function Experience() {
     {
       title: 'Software Development Intern',
       company: 'Infosys Springboard',
-      logo: '/src/Images/springboard-logo.png',
+      logo: '/images/springboard-logo.png',
       period: '2024 - Present',
       description: 'Working on enterprise Java applications using Spring Boot framework. Implementing Agile workflows and collaborating with cross-functional teams.',
       achievements: [
@@ -18,7 +18,7 @@ function Experience() {
     {
       title: 'AI & Advanced Computing Training',
       company: 'NVIDIA Deep Learning Institute',
-      logo: '/src/Images/nvidia.png',
+      logo: '/images/nvidia.png',
       period: '2024',
       description: 'Intensive training program focused on GPU-accelerated computing, deep learning, and AI model optimization.',
       achievements: [

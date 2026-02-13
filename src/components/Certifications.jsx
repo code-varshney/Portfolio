@@ -8,42 +8,42 @@ function Certifications() {
       issuer: 'Cisco Networking Academy',
       logo: 'https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg',
       color: 'from-slate-600 to-slate-700',
-      link: '/src/certificates/Python Essential 1 Cisco.pdf'
+      link: '/certificates/Python Essential 1 Cisco.pdf'
     },
     {
       title: 'JSP & MySQL Foundation Program',
       issuer: 'ABESIT',
-      logo: '/src/Images/abesit.png',
+      logo: '/images/abesit.png',
       color: 'from-slate-600 to-slate-700',
-      link: '/src/certificates/Foundation Program of JSP and MySQL-25.pdf'
+      link: '/certificates/Foundation Program of JSP and MySQL-25.pdf'
     },
     {
       title: 'Fair AI Algorithms',
       issuer: 'Fred Hutch',
-      logo: '/src/Images/fred.png',
+      logo: '/images/fred.png',
       color: 'from-slate-600 to-slate-700',
-      link: '/src/certificates/fred hutch.pdf'
+      link: '/certificates/fred hutch.pdf'
     },
     {
       title: 'Data Structures',
       issuer: 'CodeChef',
       logo: 'https://cdn.codechef.com/images/cc-logo.svg',
       color: 'from-slate-600 to-slate-700',
-      link: '/src/certificates/CodeChef Certificate.pdf'
+      link: '/certificates/CodeChef Certificate.pdf'
     },
     {
       title: 'Data Science using Python',
       issuer: 'NITTTR Chandigarh',
-      logo: '/src/Images/nittr.png',
+      logo: '/images/nittr.png',
       color: 'from-slate-600 to-slate-700',
-      link: '/src/certificates/NITTR Chandigarh University.pdf'
+      link: '/certificates/NITTR Chandigarh University.pdf'
     },
     {
       title: 'Java Foundation Certificate',
       issuer: 'Infosys Springboard',
-      logo: '/src/Images/springboard-logo.png',
+      logo: '/images/springboard-logo.png',
       color: 'from-slate-600 to-slate-700',
-      link: '/src/certificates/Java Foundation Certificate Infosys.pdf'
+      link: '/certificates/Java Foundation Certificate Infosys.pdf'
     }
   ];
 
